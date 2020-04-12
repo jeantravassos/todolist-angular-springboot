@@ -1,0 +1,13 @@
+<h1>Welcome</h1>
+<div class="container">
+    Welcome {{name}} to your Life Objectivesss organizer!<br />
+    You can manage your todos <a routerLink="/todos">here</a>
+</div>
+<div class="container">
+    Click here to get a customized message 
+    <button (click)="getWelcomeMessageWithParam()" class="btn btn-success">Get Welcome Message</button>
+</div>
+<div class="container" *ngIf="welcomeMessageFromService">
+    <H2>Your customized welcome message</H2>
+    {{welcomeMessageFromService}}
+</div>
