@@ -71,5 +71,5 @@ $ git clone https://github.com/jeantravassos/todolist-angular-springboot.git
 
 ## Author
 
-* **Jean Travassos** - *Senior Software Engineer* - [LinkedIn]([https://www.linkedin.com/in/jeantravassos/](https://www.linkedin.com/in/jeantravassos/))
+* **Jean Travassos** - *Senior Software Engineer* - [LinkedIn](https://www.linkedin.com/in/jeantravassos/)
 
